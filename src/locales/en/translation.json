@@ -1,0 +1,76 @@
+{
+
+ "Title1Header": "Mastering React",
+  "subTitle1Header": "Building interactive experiences with React.",
+  "Title2Header": "Java Spring in Action",
+  "subTitle2Header": "Powering the backend with Java Spring.",
+  "Title3Header": "Efficient Data Management",
+  "subTitle3Header": "Secure and scalable data handling with MySQL.",
+
+
+
+
+
+
+
+  "navbarBrand": "Navbar",
+  "home": "Home",
+  "listEmployees": "List Employees",
+  "addEmployee": "Add Employee",
+  "languages": "Languages",
+  "german": "German",
+  "spanish": "Spanish",
+  "english": "English",
+   "sectionTitle": "HR System Features",
+   "employeeManagementTitle": "Effective Employee Management",
+  "employeeManagementDescription": "Streamline your employee administration with functionalities to list, edit, delete, and create new records. Optimize HR processes with an intuitive and efficient interface.",
+  "databaseTitle": "Secure and Scalable Database",
+  "databaseDescription": "Our robust MySQL database ensures security and scalability in data management. Designed to efficiently handle large volumes of information.",
+  "technologyTitle": "Advanced Development Technology",
+  "technologyDescription": "Developed using Java with Spring and Maven for the backend, and React with Bootstrap for a flawless user experience in the frontend.",
+  "multilingualTitle": "Multilingual Support",
+  "multilingualDescription": "Our HR system is globally accessible, with full support in English, German, and Spanish. We facilitate communication and operation in multiple languages.",
+  "cloudHostingTitle": "Deployed on Railway Cloud",
+  "cloudHostingDescription": "Hosted on Railway Cloud for high availability and performance. Access our HR system from anywhere, anytime.",
+  "userInterfaceTitle": "User-Friendly Interface",
+  "userInterfaceDescription": "An intuitive and user-friendly design that makes navigation and system use a breeze. Enhance your HR experience with an elegant and functional interface.",
+
+
+   "aboutTitle": "About Me 🌟",
+  "name": "Limber Martinez",
+  "professionalTitle": "Junior Developer",
+  "aboutMe": "Passionate about bridging technologies in web development, I've honed my skills in React, Java Spring, and MySQL. Check out my journey on LinkedIn and GitHub! 👨‍💻🚀",
+
+    "employeeListing": "Employee List",
+  "listEmployee.info": "Here you can view the list received from the MySQL database backend. You can edit or delete any employee in real-time using the buttons.",
+  "addEmployeeTitle": "Add Employees to the System",
+  "addEmployee.info": "Here you can add a new employee to the system. Fill in all the fields and save.",
+  "editEmployeeTitle": "Edit Employees in the System",
+  "editEmployeeTitle.info": "Here you can edit any employee from the employee list. The Java Spring backend will process the changes and update the MySQL database."
+,
+
+
+  "employeeName": "Employee",
+  "department": "Department",
+  "salary": "Salary",
+  "editEmployee": "Edit",
+  "deleteEmployee": "Delete",
+ 
+  "addEmployeeButton": "Add",
+  "returnEmployeeButton": "Return",
+  "saveEmployeeButton": "Save",
+
+
+    "madeWithLove": "Made with",
+  "footerAnd": "and",
+  "footerwith": "with",
+  "footerin": "in",
+  
+  "rightsReserved": "All Rights Reserved"
+
+  
+
+
+
+
+}

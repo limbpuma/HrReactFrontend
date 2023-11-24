@@ -1,0 +1,69 @@
+{
+  "Title1Header": "React beherrschen",
+  "subTitle1Header": "Aufbau interaktiver Erfahrungen mit React.",
+  "Title2Header": "Java Spring in Aktion",
+  "subTitle2Header": "Antrieb des Backends mit Java Spring.",
+  "Title3Header": "Effizientes Datenmanagement",
+  "subTitle3Header": "Sichere und skalierbare Datenverarbeitung mit MySQL.",
+
+
+
+
+  "navbarBrand": "Navbar",
+  "home": "Startseite",
+  "listEmployees": "Mitarbeiter auflisten",
+  "addEmployee": "Mitarbeiter hinzufügen",
+  "languages": "Sprachen",
+  "german": "Deutsch",
+  "spanish": "Spanisch",
+  "english": "Englisch",
+
+  "sectionTitle": "HR-Systemfunktionen",
+    "employeeManagementTitle": "Effektives Mitarbeitermanagement",
+  "employeeManagementDescription": "Vereinfachen Sie Ihre Mitarbeiterverwaltung mit Funktionen zum Auflisten, Bearbeiten, Löschen und Erstellen neuer Einträge. Optimieren Sie HR-Prozesse mit einer intuitiven und effizienten Schnittstelle.",
+  "databaseTitle": "Sichere und skalierbare Datenbank",
+  "databaseDescription": "Unsere robuste MySQL-Datenbank gewährleistet Sicherheit und Skalierbarkeit in der Datenverwaltung. Entwickelt, um große Datenmengen effizient zu verarbeiten.",
+  "technologyTitle": "Fortgeschrittene Entwicklungstechnologie",
+  "technologyDescription": "Entwickelt mit Java unter Verwendung von Spring und Maven für das Backend und React mit Bootstrap für ein einwandfreies Benutzererlebnis im Frontend.",
+  "multilingualTitle": "Mehrsprachige Unterstützung",
+  "multilingualDescription": "Unser HR-System ist weltweit zugänglich und bietet vollständige Unterstützung in Englisch, Deutsch und Spanisch. Wir erleichtern die Kommunikation und den Betrieb in mehreren Sprachen.",
+  "cloudHostingTitle": "Bereitgestellt auf Railway Cloud",
+  "cloudHostingDescription": "Gehostet auf Railway Cloud für hohe Verfügbarkeit und Leistung. Greifen Sie jederzeit und überall auf unser HR-System zu.",
+  "userInterfaceTitle": "Benutzerfreundliche Schnittstelle",
+  "userInterfaceDescription": "Ein intuitives und benutzerfreundliches Design, das die Navigation und Systemnutzung erleichtert. Verbessern Sie Ihr HR-Erlebnis mit einer eleganten und funktionalen Schnittstelle.",
+
+
+  "aboutTitle": "Über Mich 🌟",
+  "name": "Limber Martinez",
+  "professionalTitle": "Junior Entwickler",
+  "aboutMe": "Leidenschaftlich in der Verbindung von Technologien im Web-Entwicklung. Fähigkeiten in React, Java Spring und MySQL verfeinert. Besuche meine LinkedIn und GitHub! 👨‍💻🚀",
+
+
+    "employeeListing": "Mitarbeiterliste",
+  "listEmployee.info": "Hier können Sie die Liste vom MySQL-Datenbank-Backend anzeigen. Sie können jeden Mitarbeiter in Echtzeit mit den Schaltflächen bearbeiten oder löschen.",
+  "addEmployeeTitle": "Mitarbeiter zum System hinzufügen",
+  "addEmployee.info": "Hier können Sie einen neuen Mitarbeiter zum System hinzufügen. Füllen Sie alle Felder aus und speichern Sie.",
+  "editEmployeeTitle": "Mitarbeiter im System bearbeiten",
+  "editEmployeeTitle.info": "Hier können Sie jeden Mitarbeiter aus der Mitarbeiterliste bearbeiten. Das Java Spring Backend verarbeitet die Änderungen und aktualisiert die MySQL-Datenbank.",
+
+
+ 
+  "employeeName": "Mitarbeiter",
+  "department": "Abteilung",
+  "salary": "Gehalt",
+  "editEmployee": "bearbeiten",
+  "deleteEmployee": "löschen",
+
+  "addEmployeeButton": "hinzufügen",
+  "returnEmployeeButton": "Zurück",
+ 
+  "saveEmployeeButton": "speichern",
+
+
+   "madeWithLove": "Gemacht mit",
+  "footerAnd": "und",
+  "footerwith": "mit",
+  "footerin": "in",
+  "rightsReserved": "Alle Rechte vorbehalten"
+
+}

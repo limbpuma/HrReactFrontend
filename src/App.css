@@ -1,38 +1,116 @@
-.App {
-  text-align: center;
+/*carddev-custom carddev-custom iconsection-custom header-custom*/
+/* Establece la fuente principal */
+body {
+  font-family: "Open Sans", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Para títulos principales */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* Para textos generales */
+p,
+span,
+a {
+  font-family: "Roboto Condensed", sans-serif;
+}
+/* Tamaño de fuente para encabezados */
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333; /* Color de texto personalizado */
+  margin-bottom: 20px;
+}
+
+/* Tamaño de fuente para párrafos */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666; /* Color de texto personalizado */
+  margin-bottom: 10px;
+}
+
+/* Estilo de enlaces */
+a {
+  text-decoration: none;
+  color: #007bff; /* Color de enlaces personalizado */
+}
+
+/* Estilo de enlaces al pasar el ratón */
+a:hover {
+  text-decoration: underline;
+}
+
+.navbar-brand img {
+  width: 3rem;
+  height: 3rem;
+}
+.dropdown-item button {
+  border: none;
+  width: 100%;
+}
+.header-custom {
+  margin-bottom: 2rem;
+  background-color: black;
+}
+.header-custom img {
+  opacity: 0.5;
+}
+.carddev-custom,
+.cards-custom,
+.iconsection-custom {
+  margin: 2rem auto;
+}
+.cards-custom.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+/* Media query para dispositivos más pequeños que tabletas */
+@media (max-width: 768px) {
+  /* Añade 'px' aquí */
+  .custom-card {
+    padding: 1rem 0rem; /* Cambio en el padding para dispositivos más pequeños */
+  }
+  .carousel-item {
+    display: inline;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/* Media query para tabletas */
+@media (min-width: 768px) and (max-width: 991px) {
+  .custom-card {
+    padding: 1rem; /* Cambio en el padding para tabletas */
   }
-  to {
-    transform: rotate(360deg);
+}
+
+/* Media query para pantallas pequeñas de escritorio */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .custom-card {
+    padding: 1.5rem; /* Cambio en el padding para pantallas pequeñas de escritorio */
+  }
+}
+
+/* Media query para pantallas grandes de escritorio */
+@media (min-width: 1200px) {
+  .custom-card {
+    padding: 2rem; /* Cambio en el padding para pantallas grandes de escritorio */
+  }
+  .carousel-inner {
+    height: 80vh;
+    object-fit: cover;
+    object-position: center;
+  }
+  .carousel-item {
+    position: static;
+  }
+  .carddev-custom {
+    width: 50%;
   }
 }
